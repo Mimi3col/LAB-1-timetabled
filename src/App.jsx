@@ -5,8 +5,8 @@ const App = () => {
 
     return (
         <div className="App">
-        <h1>Itinerary For Teachers</h1>
-        <h2>A weekly view of How A teacher would plan their week</h2>
+        <h1>Itinerary For Teacher Workshops</h1>
+        <h2>The weekly view of a five day workshops available to teachers one week before school</h2>
         <Calendar/>
         </div>
     )
